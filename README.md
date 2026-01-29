@@ -2,9 +2,19 @@
 Aplikacja typu Fullstack służąca do pobierania, archiwizacji oraz prezentacji oficjalnych kursów walut z API Narodowego Banku Polskiego.
 Projekt łączy Frontend (Angular) z Backendem (.NET) oraz konteneryzowaną bazą danych (PostgreSQL).
 
+
+
+
+
+
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/fed3baa2-f95d-4617-8612-be9166412729" />
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/ec26166e-1ea8-4472-8bb6-53d4e95f5905" />
+
+
+
+
+
 
 
 
