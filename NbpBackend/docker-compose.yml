@@ -1,0 +1,16 @@
+﻿version: '3.8'
+services:
+  db:
+    image: postgres:latest
+    container_name: nbp_database
+    environment:
+      - POSTGRES_DB=NbpDb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5433:5432"
+    volumes:
+      - db_data_new:/var/lib/postgresql/data  <-- TU ZMIANA (1)
+
+volumes:
+  db_data_new:  

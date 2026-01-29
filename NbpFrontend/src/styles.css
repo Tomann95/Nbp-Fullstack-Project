@@ -1,0 +1,7 @@
+/* Usunęliśmy znak "~" z początku, teraz zadziała */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  padding: 20px;
+  background-color: #f8f9fa;
+}
